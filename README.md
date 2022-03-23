@@ -13,7 +13,7 @@
 <img height="40em" src="https://img.shields.io/badge/hello-There-brightgreen" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Codad5&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=white" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codad5&layout=compact" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=codad5" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=codad5" /> -->
 
 
 <!--START_SECTION:waka-->
