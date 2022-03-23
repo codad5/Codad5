@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Currencynet
 - 🤔 I’m looking for help with ... Ideas
 - 💬 Ask me about Code
-- 📫 How to reach me: <a href="wa.me/2348142573488?text=i am from github">Reach me</a>
+- 📫 How to reach me: <a href="https://wa.me/2348142573488?text=i am from github">Reach me</a>
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... Loading
 
