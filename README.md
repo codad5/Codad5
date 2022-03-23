@@ -3,7 +3,8 @@
 
 <img height="40em" src="https://img.shields.io/badge/hello-There-brightgreen" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Codad5&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 **codad5/Codad5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
