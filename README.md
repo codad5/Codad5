@@ -27,7 +27,7 @@
 <!--END_SECTION:waka-->
 
 
-**codad5/Codad5** is a ✨ _special_ ✨ repository 
+**codad5** is a ✨ _special_ ✨ profile 
 
 Here are some ideas to get you started:
 
