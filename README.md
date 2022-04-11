@@ -16,6 +16,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
+<a href="https://wakatime.com/@3ab5e86a-11c8-4d0f-8e6f-f5fe5ef0fa4c"><img src="https://wakatime.com/badge/user/3ab5e86a-11c8-4d0f-8e6f-f5fe5ef0fa4c.svg" alt="Total time coded since Mar 23 2022" /></a>
+
 <img height="40em" src="https://img.shields.io/badge/hello-There-brightgreen" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Codad5&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=white" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codad5&layout=compact" />
