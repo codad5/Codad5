@@ -24,9 +24,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PHP](https://img.shields.io/badge/PHP-07405E?style=for-the-badge&logo=PHP&logoColor=white)
-![skills](https://img.shields.io/badge/-NODE_JS-FF0000?style=for-the-badge&logo=node.js&logoColor=white&color=purple)
+![skills](https://img.shields.io/badge/-NODE_JS-FF0000?style=for-the-badge&logo=node.js&logoColor=green&color=black)
 ![skills](https://img.shields.io/badge/-EXPRESS_JS-FF0000?style=for-the-badge&logo=express&logoColor=white&color=grey)
 ![skills](https://img.shields.io/badge/-MYSQL-FF0000?style=for-the-badge&logo=mysql&logoColor=white&color=blue)
+![Typescript](https://img.shields.io/badge/-TYPESCRIPT-FF0000?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
+![Laravel](https://img.shields.io/badge/-LARAVEL-FF0000?style=for-the-badge&logo=laravel&logoColor=white&color=red)
+
+
 
 <hr> 
 
