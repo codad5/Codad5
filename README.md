@@ -48,7 +48,7 @@
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Codad5&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=white" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codad5&layout=compact" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codad5&layout=compact&hide=css,html&langs_count=8" />
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=codad5" /> -->
 
 [![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=codad5&bg_color=22272e00&hide_border=true&color=fbbf24&area_color=A1A1AA&title_color=fbbf24&line=fbbf24&point=A16207)](https://github.com/codad5)
