@@ -2,7 +2,7 @@
 
 ![600x200](https://user-images.githubusercontent.com/66634814/183780755-aba1b55a-9bc7-4a3a-a1f2-405f923f3525.jpeg)
 
-# I am Aniezeofor Chibueze
+# I am Chibueze Aniezeofor
 <hr>
 
 
@@ -39,7 +39,7 @@
 <a href="https://wakatime.com/@3ab5e86a-11c8-4d0f-8e6f-f5fe5ef0fa4c"><img src="https://wakatime.com/badge/user/3ab5e86a-11c8-4d0f-8e6f-f5fe5ef0fa4c.svg" alt="Total time coded since Mar 23 2022" /></a>
 </div>
 
-<img align="center" width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=codad5&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=22272E00&dates=A1A1AA&currStreakNum=FBBF24&ring=FBBF24&fire=FBBF24&sideNums=A1A1AA&currStreakLabel=FBBF24&sideLabels=FBBF24&stroke=FFFFFF51)](https://git.io/streak-stats" />
+<img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=codad5&theme=transparent&hide_border=true" />
 
   
 </div>
