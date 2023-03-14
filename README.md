@@ -1,6 +1,6 @@
-![600x200](https://user-images.githubusercontent.com/66634814/183780755-aba1b55a-9bc7-4a3a-a1f2-405f923f3525.jpeg)
-### <img height="40em" src="https://img.shields.io/badge/hello-There👋-brightgreen" />
 <div align="center">
+
+![600x200](https://user-images.githubusercontent.com/66634814/183780755-aba1b55a-9bc7-4a3a-a1f2-405f923f3525.jpeg)
 
 # I am Aniezeofor Chibueze
 <hr>
@@ -47,31 +47,14 @@
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Codad5&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=white" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Codad5&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=white" /> -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codad5&layout=compact&hide=css,html&langs_count=8" />
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=codad5" /> -->
   
 
-[![Codad5's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codad5&layout=compact&langs_count=10)](https://github.com/codad5)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=codad5&layout=compact&langs_count=8" />
 
-[![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=codad5&bg_color=22272e00&hide_border=true&color=fbbf24&area_color=A1A1AA&title_color=fbbf24&line=fbbf24&point=A16207)](https://github.com/codad5)
+
 
 </div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-**codad5** is a ✨ _special_ ✨ profile 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on great thing
-- 🌱 I’m currently learning Python for machine learning
-- 👯 I’m looking to collaborate on great thing
-- 🤔 I’m looking for help with ... Ideas
-- 💬 Ask me about Code
-- 📫 How to reach me: <a href="https://wa.me/2348142572488?text=i am from github">Reach me</a>
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ... Loading
 
