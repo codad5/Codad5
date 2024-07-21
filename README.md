@@ -5,7 +5,6 @@
 <hr>
 
 <a href="https://gitroll.io/profile/uGeXJAZTu8nfw12opD99AJtGKmkC3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uGeXJAZTu8nfw12opD99AJtGKmkC3" alt="GitRoll Profile Badge"/></a>
-
 <hr>
 
 ### Coding Time and Activities 
