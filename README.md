@@ -4,7 +4,7 @@
 
 <hr>
 
-<a href="https://gitroll.io/profile/uGeXJAZTu8nfw12opD99AJtGKmkC3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uGeXJAZTu8nfw12opD99AJtGKmkC3?refresh=1" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uGeXJAZTu8nfw12opD99AJtGKmkC3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uGeXJAZTu8nfw12opD99AJtGKmkC3?refresh=2" alt="GitRoll Profile Badge"/></a>
 
 ### Coding Time and Activities 
 <a href="https://wakatime.com/@3ab5e86a-11c8-4d0f-8e6f-f5fe5ef0fa4c"><img src="https://wakatime.com/badge/user/3ab5e86a-11c8-4d0f-8e6f-f5fe5ef0fa4c.svg" alt="Total time coded since Mar 23 2022" /></a>
